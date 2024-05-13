@@ -8,10 +8,11 @@
         }
     ],
     "require": {
-        "php": "~8.1.0||~8.2.0"
+        "php": "~8.1.0||~8.2.0",
+        "gmruduramai/mgurrapucustomerimport":"*"
     },
     "type": "magento2-module",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
