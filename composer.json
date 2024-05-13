@@ -1,11 +1,17 @@
 {
     "name": "mgurrapucustomer/import",
     "description": "Magento 2 Import Customer From External File",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gmruduramai/mgurrapucustomerimport"
+        }
+    ],
     "require": {
         "php": "~8.1.0||~8.2.0"
     },
     "type": "magento2-module",
-    "version": "1.1.3",
+    "version": "1.1.5",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
